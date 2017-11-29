@@ -2,3 +2,128 @@ body
 {
   background-color: #123142;
 }
+
+#container
+{
+  width: 1250px;
+  height: 1000px;
+}
+
+#logo
+{
+  width: 1px;
+  height: 1px;
+}
+
+#loginBasket
+{
+  width: 1px;
+  height: 1px;
+}
+
+#basket
+{
+  width: 1px;
+  height: 1px;
+}
+
+#upperMenu
+{
+  width: 1px;
+  height: 1px;
+}
+
+#leftMenu
+{
+  width: 1px;
+  height: 1px;
+}
+
+#categoriesMenu
+{
+  width: 1px;
+  height: 1px;
+}
+
+#randomItem
+{
+  width: 1px;
+  height: 1px;
+}
+
+#socialButtons
+{
+  width: 1px;
+  height: 1px;
+}
+
+#rightMenu
+{
+  width: 1px;
+  height: 1px;
+}
+#slider
+{
+  width: 1px;
+  height: 1px;
+}
+
+#featuredItems
+{
+  width: 1px;
+  height: 1px;
+}
+
+#newItems
+{
+  width: 1px;
+  height: 1px;
+}
+
+#downMenu
+{
+  width: 1px;
+  height: 1px;
+}
+
+#footer
+{
+  width: 1px;
+  height: 1px;
+}
+
+.logPass
+{
+  width: 1px;
+  height: 1px;
+}
+
+.optionMenu
+{
+  width: 1px;
+  height: 1px;
+}
+
+.categoryMenu
+{
+  width: 1px;
+  height: 1px;
+}
+
+.socialButton
+{
+  width: 1px;
+  height: 1px;
+}
+
+.featuredItem
+{
+  width: 1px;
+  height: 1px;
+}
+
+.newItem
+{
+  width: 1px;
+  height: 1px;
+}
